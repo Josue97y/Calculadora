@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("Esto es una prueba ");
 
     }
 
